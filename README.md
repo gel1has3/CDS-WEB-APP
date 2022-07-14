@@ -4,15 +4,15 @@ CDS-WEB-APP is currently at version 0.1, with version 2 in the process. Version 
 
 An evaluation study for the CDS-WEB-APP has already been completed, and the results will be published shortly in a prestigious journal.
 
-CDS-WEB-APP Goal 
+## CDS-WEB-APP Goal 
 
 The goal the CDS-WEB-APP is to develop a CDS WEB-APP, and it is supervised by Dr. Demisew, Dr. Girum, Prof. Frank Verbeke, Prof. Jan Cornelis, and Prof. Bart Jansen. The CDS WEB-APP intends to function as a plugin for existing electronic medical records or HMIS applications in order to offer CP (clinical work flow generation) and evidence-practice divide. It was developed using clinical guidelines, a card-sheet, a referral log-sheet, and point-of-care charts. Focus primarily on the primary health context in low-resource settings.
 
-Publications 
+## Publications 
 
 The CDS WEB-APP outcomes have already been published and presented in Medinfo'21, MobiHealth'21, JHIDC, PLOS ONE, INDABA'18, and md4sg'19.
 
-Key features 
+## Key features 
 
 1. Automated CDS WEB-APP for low resource settings
 
@@ -27,13 +27,15 @@ Key features
 6. Deployed and operated on a low-cost device such as the Raspberry Pi 4, with access via smartphone, laptop, or tablet over mobile data (or wireless network)
 
 
-To install the CDS WEB-APP
+## To install the CDS WEB-APP
 
 pip install CDS-WEB-APP (will be released soon)
 
 
-Deployment 
-Sample Screenshoot on RPi4
+## Deployment 
+
+Sample Screenshoot using RPi4
+
 
 ![Menu for PP_ANC_or PNC selection](https://user-images.githubusercontent.com/17700070/178952549-9e43e3c8-eeae-43f7-bdac-866c8012adfa.jpg)
 
