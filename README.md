@@ -1,9 +1,12 @@
 # CDS-WEB-APP
 
-CDS-WEB-APP is currently at version 0.1, with version 2 in the process. Version 2 will be based on the evaluation results and acceptability testing based on an AI-enabled evaluation framework.
-Project Goal 
+CDS-WEB-APP is currently at version 0.1, with version 2 in the process. Version 2 will be based on the evaluation results and acceptability testing based on an AI-enabled evaluation framework.  
 
-This project's goal is to develop a CDS WEB-APP, and it is supervised by Dr. Demisew, Dr. Girum, Prof. Frank Verbeke, Prof. Jan Cornelis, and Prof. Bart Jansen. The CDS WEB-APP intends to function as a plugin for existing electronic medical records or HMIS applications in order to offer CP (clinical work flow generation) and evidence-practice divide. It was developed using clinical guidelines, a card-sheet, a referral log-sheet, and point-of-care charts. Focus primarily on the primary health context in low-resource settings.
+An evaluation study for the CDS-WEB-APP has already been completed, and the results will be published shortly in a prestigious journal.
+
+CDS-WEB-APP Goal 
+
+The goal the CDS-WEB-APP is to develop a CDS WEB-APP, and it is supervised by Dr. Demisew, Dr. Girum, Prof. Frank Verbeke, Prof. Jan Cornelis, and Prof. Bart Jansen. The CDS WEB-APP intends to function as a plugin for existing electronic medical records or HMIS applications in order to offer CP (clinical work flow generation) and evidence-practice divide. It was developed using clinical guidelines, a card-sheet, a referral log-sheet, and point-of-care charts. Focus primarily on the primary health context in low-resource settings.
 
 Publications 
 
