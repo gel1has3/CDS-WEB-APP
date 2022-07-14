@@ -17,4 +17,8 @@ Key features
 
 3. Dynamically valide and map knowledge based result using local context or hisotrical evidence 
 
-4. Deliver multi-criteria decisin analysis (concordance table)
+4. Data-driven model was produced using Bayesian learning.
+
+5. Deliver multi-criteria decisin analysis (concordance table)
+
+6. Deployed and operated on a low-cost device such as the Raspberry Pi 4, with access via smartphone, laptop, or tablet over mobile data (or wireless network)
