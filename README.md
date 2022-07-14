@@ -7,7 +7,7 @@ This project's goal is to develop a CDS WEB-APP, and it is supervised by Dr. Dem
 
 Publications 
 
-The results of have so far been published in Medinfo'21, MobiHealth'21, JHIDC, PLOS ONE, INDABA'18, and md4sg'19.
+The CDS WEB-APP outcomes have already been published and presented in Medinfo'21, MobiHealth'21, JHIDC, PLOS ONE, INDABA'18, and md4sg'19.
 
 Key features 
 
