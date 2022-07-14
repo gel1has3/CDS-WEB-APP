@@ -35,9 +35,10 @@ pip install CDS-WEB-APP (will be released soon)
 Deployment 
 Sample Screenshoot on RPi4
 
-![2 connect with RPI4 2 (navigate the CP project folder) (1)](https://user-images.githubusercontent.com/17700070/178952625-f5238e6b-aaf1-4844-abd3-1e1ad5cc4fcf.jpg)
-
-
 ![Menu for PP_ANC_or PNC selection](https://user-images.githubusercontent.com/17700070/178952549-9e43e3c8-eeae-43f7-bdac-866c8012adfa.jpg)
+
+<img width="217" alt="Screen Shot 2022-07-14 at 11 40 44 AM" src="https://user-images.githubusercontent.com/17700070/178953328-923fe869-d74f-414d-8ccd-a5a72a977631.png">
+
+<img width="502" alt="Screen Shot 2022-07-14 at 11 40 56 AM" src="https://user-images.githubusercontent.com/17700070/178953383-bb7ce95b-411b-43bb-9267-b9a34e0f70fb.png">
 
 
