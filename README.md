@@ -1,6 +1,6 @@
 # CDS-WEB-APP
 
-CDS-WEB-APP is currently at version 0.1, with version 2 in the process. Version 2 will be based on the evaluation results and acceptability testing based on an AI-enabled evaluation framework.  
+CDS-WEB-APP is currently at version 0.1, with version 2 in the process. Version 2 will be based on the evaluation results and acceptability testing using an AI-enabled evaluation framework.  
 
 An evaluation study for the CDS-WEB-APP has already been completed, and the results will be published shortly in a prestigious journal.
 
